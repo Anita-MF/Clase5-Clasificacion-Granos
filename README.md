@@ -1,3 +1,5 @@
+# CENTRO POLITÉCNICO SUPERIOR MALVINAS ARGENTINAS - APRENDIZAJE AUTOMÁTICO
+# Alumna-FERNÁNDEZ, Ana María
 # Clase5-Clasificacion-Granos
 Clase 5 — K-NN vs Árbol con Estimaciones Agrícolas (ARG). Split 80/20, F1-macro, matrices de confusión y gráficas para el informe
 
@@ -84,11 +86,4 @@ Clase 5 — K-NN vs Árbol con Estimaciones Agrícolas (ARG). Split 80/20, F1-ma
 * Probar **`class_weight='balanced'`** en el árbol y otras métricas (macro-F1 por clase).
 * Evaluar modelos adicionales (Random Forest, Gradient Boosting) y validación temporal por campañas.
 
----
-
-## Créditos
-
-Trabajo práctico de **Clase 5 — Aprendizaje Supervisado (Clasificación)**.
-Datos: Estimaciones Agrícolas (Argentina).
-Año: 2025.
 
